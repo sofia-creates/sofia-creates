@@ -2,7 +2,7 @@
 
 I am a frontend developer student graduating May 2025 from Nackademin, with a background in marketing and design.
 
-👩‍💻 Currently on internship @ ICA-gruppen.
+👩‍💻 Currently doing my thesis @ ICA-gruppen.
 
 🌱 Currently learning Vue.js as well as coding for accessibility.
 
