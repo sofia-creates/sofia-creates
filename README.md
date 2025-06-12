@@ -1,8 +1,6 @@
 # Hello, my name is Sofia!
 
-I am a frontend developer student graduating May 2025 from Nackademin, with a background in marketing and design.
-
-👩‍💻 Currently doing my thesis @ ICA-gruppen.
+I am a frontend developer recently graduated from Nackademin (Stockholm), with a background in marketing and design.
 
 🌱 Currently learning Vue.js as well as coding for accessibility.
 
