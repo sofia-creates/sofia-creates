@@ -1,8 +1,8 @@
 # Hello, my name is Sofia!
 
-I am a frontend developer recently graduated from Nackademin (Stockholm), with a background in marketing and design.
+I am a frontend developer recently graduated from Nackademin (Stockholm), with a background in marketing and design. Curious and passionate about learning, design and accessible coding.
 
-🌱 Currently learning Vue.js as well as coding for accessibility.
+🌱 Just started learning Angular.
 
 ---
 
